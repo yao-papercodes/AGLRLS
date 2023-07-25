@@ -1,0 +1,4 @@
+- Source: RAF, Backbone: ResNet50 (5 models)
+- Source: RAF, Backbone: MobileNet-V2 (5 models)
+- Source: FER2013, Backbone: ResNet50 (5 models)
+- Source: FER2013, Backbone: MobileNet-V2 (5 models)
