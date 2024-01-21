@@ -1,4 +1,4 @@
-# Adaptive Global-Local Representation Learning and Selection
+# Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition
 Implementation of papers:
 - [Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10404024/authors#authors)  
   IEEE Transactions on Multimedia (IEEE TMM), 2024.  
