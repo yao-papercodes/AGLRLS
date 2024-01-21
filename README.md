@@ -10,7 +10,7 @@ Ubuntu 22.04.2 LTS, python 3.8.10, PyTorch 1.9.0.
 ## Datasets
 Application website： [CK+](http://www.jeffcohn.net/wp-content/uploads/2020/10/2020.10.26_CK-AgreementForm.pdf100.pdf.pdf), [JAFFE](https://zenodo.org/record/3451524#.YXdc1hpBw9E), [SFEW 2.0](https://cs.anu.edu.au/few/AFEW.html), [FER2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data), [ExpW](http://mmlab.ie.cuhk.edu.hk/projects/socialrelation/index.html), [RAF](http://www.whdeng.cn/raf/model1.html).
 ## Trained Models
-The trained models are saved in: [Baidu online disk](https://pan.baidu.com/s/1Uhf4XeEFjHd2OgjvMNORnA?pwd=oi5d).
+The trained models are share in: [baidu drive](https://pan.baidu.com/s/1Uhf4XeEFjHd2OgjvMNORnA?pwd=oi5d).
 ## Usage
 ```bash
 cd code
@@ -27,7 +27,8 @@ bash TransferToTargetDomain.sh  # Second step
   volume={},
   number={},
   pages={1-13},
-  doi={10.1109/TMM.2024.3355637}}
+  doi={10.1109/TMM.2024.3355637}
+}
 
 @INPROCEEDINGS{9956069,
   author={Xie, Yuhao and Gao, Yuefang and Lin, Jiantao and Chen, Tianshui},
@@ -37,7 +38,8 @@ bash TransferToTargetDomain.sh  # Second step
   volume={},
   number={},
   pages={2489-2495},
-  doi={10.1109/ICPR56361.2022.9956069}}
+  doi={10.1109/ICPR56361.2022.9956069}
+}
 ```
 ## Contributors
 For any questions, feel free to open an issue or contact us:
