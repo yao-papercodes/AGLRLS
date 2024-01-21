@@ -1,6 +1,6 @@
 # Adaptive Global-Local Representation Learning and Selection
 Implementation of papers:
-- [Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10404024/authors#authors)
+- [Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10404024/authors#authors)\\
   IEEE Transactions on Multimedia (IEEE TMM), 2024.
   Yuefang Gao, Yuhao Xie, Zeke Zexi Hu, Tianshui Chen, Liang Lin
 ## Environment
