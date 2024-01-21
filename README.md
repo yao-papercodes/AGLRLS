@@ -1,5 +1,8 @@
 # Adaptive Global-Local Representation Learning and Selection
-Implementation for AGLRLS
+Implementation of papers:
+- [Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10404024/authors#authors)
+  IEEE Transactions on Multimedia (IEEE TMM), 2024.
+  Yuefang Gao, Yuhao Xie, Zeke Zexi Hu, Tianshui Chen, Liang Lin
 ## Environment
 Ubuntu 22.04.2 LTS, python 3.8.10, PyTorch 1.9.0
 ## Datasets
