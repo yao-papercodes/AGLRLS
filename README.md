@@ -17,3 +17,25 @@ cd code
 bash TrainOnSourceDomain.sh     # First step
 bash TransferToTargetDomain.sh  # Second step
 ```
+## Citation
+```bash
+@ARTICLE{10404024,
+  author={Gao, Yuefang and Xie, Yuhao and Hu, Zeke Zexi and Chen, Tianshui and Lin, Liang},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TMM.2024.3355637}}
+
+@INPROCEEDINGS{9956069,
+  author={Xie, Yuhao and Gao, Yuefang and Lin, Jiantao and Chen, Tianshui},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
+  title={Learning Consistent Global-Local Representation for Cross-Domain Facial Expression Recognition}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={2489-2495},
+  doi={10.1109/ICPR56361.2022.9956069}}
+```
