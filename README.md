@@ -24,9 +24,10 @@ bash TransferToTargetDomain.sh  # Second step
   journal={IEEE Transactions on Multimedia}, 
   title={Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition}, 
   year={2024},
-  volume={},
+  volume={26},
   number={},
-  pages={1-13},
+  pages={6676-6688},
+  keywords={Feature extraction;Adaptation models;Adversarial machine learning;Face recognition;Semantics;Data models;Representation learning;Domain adaptation;adverserial learning;Pseudo label generation;Facial expression recognition},
   doi={10.1109/TMM.2024.3355637}
 }
 
