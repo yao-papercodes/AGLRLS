@@ -19,6 +19,7 @@ bash TrainOnSourceDomain.sh     # First step
 bash TransferToTargetDomain.sh  # Second step
 ```
 ## Citation
+If you find our paper or code helpful, please cite our work.
 ```bash
 @ARTICLE{10404024,
   author={Gao, Yuefang and Xie, Yuhao and Hu, Zeke Zexi and Chen, Tianshui and Lin, Liang},
