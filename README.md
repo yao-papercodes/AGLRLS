@@ -5,7 +5,7 @@ Implementation of papers:
   Yuefang Gao, Yuhao Xie, Zeke Zexi Hu, Tianshui Chen, Liang Lin
 <div align=center>
 	<img src="./figures/framework.png"/>
-	<p>Framwork of AGLRLS.</p>
+	<p>Framework of AGLRLS.</p>
 </div>
 
 ## Environment
