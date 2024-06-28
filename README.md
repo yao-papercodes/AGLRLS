@@ -4,7 +4,7 @@ Implementation of papers:
   IEEE Transactions on Multimedia (IEEE TMM), 2024.  
   Yuefang Gao, Yuhao Xie, Zeke Zexi Hu, Tianshui Chen, Liang Lin
   
-![avatar](./figures/framework.png)
+![avatar](./figures/Framework.png)
 ## Environment
 Ubuntu 22.04.2 LTS, python 3.8.10, PyTorch 1.9.0.
 ## Datasets
